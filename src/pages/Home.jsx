@@ -1,5 +1,5 @@
 import React from 'react'
-import Veggie from '../components/Veggie'
+import Veggie from '../components/Dessert'
 import Popular from '../components/Popular'
 
 const Home = () => {
